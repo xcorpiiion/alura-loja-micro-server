@@ -13,6 +13,7 @@ public class LojaConfiguration {
         return new ModelMapper();
     }
 
+    @Bean
     public RestTemplate restTemplate() {
         return new RestTemplate();
     }

@@ -2,8 +2,6 @@ package br.com.study.loja.dto;
 
 import lombok.*;
 
-import java.util.List;
-
 @Getter
 @Setter
 @NoArgsConstructor

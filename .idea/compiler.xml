@@ -2,29 +2,50 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="loja-web" />
-        <module name="loja-configuration" />
-        <module name="loja-service" />
+        <module name="fornecedor-repository" />
         <module name="loja-controller" />
+        <module name="fornecedor-model" />
+        <module name="fornecedor-web" />
+        <module name="loja-service" />
+        <module name="loja-configuration" />
+        <module name="fornecedor-service" />
+        <module name="loja-dto" />
+        <module name="fornecedor-controller" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="fornecedor" target="1.8" />
+      <module name="fornecedor-controller" target="8" />
+      <module name="fornecedor-model" target="8" />
+      <module name="fornecedor-repository" target="8" />
+      <module name="fornecedor-service" target="8" />
+      <module name="fornecedor-web" target="8" />
       <module name="loja" target="1.8" />
       <module name="loja-configuration" target="8" />
       <module name="loja-controller" target="8" />
+      <module name="loja-dto" target="8" />
       <module name="loja-service" target="8" />
       <module name="loja-web" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="fornecedor" options="-parameters" />
+      <module name="fornecedor-controller" options="-parameters" />
+      <module name="fornecedor-model" options="-parameters" />
+      <module name="fornecedor-repository" options="-parameters" />
+      <module name="fornecedor-service" options="-parameters" />
+      <module name="fornecedor-web" options="-parameters" />
       <module name="loja" options="-parameters" />
       <module name="loja-configuration" options="-parameters" />
       <module name="loja-controller" options="-parameters" />
+      <module name="loja-dto" options="-parameters" />
       <module name="loja-service" options="-parameters" />
       <module name="loja-web" options="-parameters" />
     </option>

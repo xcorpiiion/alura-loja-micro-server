@@ -3,9 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alura-loja-micro-server.iml" filepath="$PROJECT_DIR$/.idea/alura-loja-micro-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-controller/fornecedor-controller.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-controller/fornecedor-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-model/fornecedor-model.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-model/fornecedor-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-repository/fornecedor-repository.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-repository/fornecedor-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-service/fornecedor-service.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-service/fornecedor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-web/fornecedor-web.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-web/fornecedor-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja.iml" filepath="$PROJECT_DIR$/loja/loja.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-configuration/loja-configuration.iml" filepath="$PROJECT_DIR$/loja/loja-configuration/loja-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-controller/loja-controller.iml" filepath="$PROJECT_DIR$/loja/loja-controller/loja-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loja/loja-dto/loja-dto.iml" filepath="$PROJECT_DIR$/loja/loja-dto/loja-dto.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-service/loja-service.iml" filepath="$PROJECT_DIR$/loja/loja-service/loja-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-web/loja-web.iml" filepath="$PROJECT_DIR$/loja/loja-web/loja-web.iml" />
     </modules>

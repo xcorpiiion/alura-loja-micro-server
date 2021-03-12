@@ -16,7 +16,7 @@ public class CompraServiceImpl implements CompraService {
 
     @Override
     public void realizaCompra(CompraDTO compraDTO) {
-        this.restTemplate.exchange("http://localhost:8081/info/" + compraDTO.getEndereco().getEstato(),
+        this.restTemplate.exchange("http://fornecedor/infos/" + compraDTO.getEndereco().getEstato(),
                 GET, null, InfoFornecedorDTO.class);
     }
 }
