@@ -1,5 +1,6 @@
 package br.com.study.loja.controller;
 
+import br.com.study.loja.Compra;
 import br.com.study.loja.dto.CompraDTO;
 import br.com.study.loja.service.CompraService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -17,9 +18,9 @@ public class CompraController {
     private CompraService compraService;
 
     @PostMapping
-    public ResponseEntity<Void> realizaCompra(@RequestBody CompraDTO compraDTO) {
-        this.compraService.realizaCompra(compraDTO);
-        return null;
+    public ResponseEntity<Compra> realizaCompra(@RequestBody CompraDTO compraDTO) {
+        Compra compra = this.compraService.realizaCompra(compraDTO);
+        return ResponseEntity.ok(compra);
     }
 
 }

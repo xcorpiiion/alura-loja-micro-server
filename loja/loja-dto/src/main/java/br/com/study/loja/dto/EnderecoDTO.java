@@ -14,6 +14,6 @@ public class EnderecoDTO {
 
     private int numero;
 
-    private String estato;
+    private String estado;
 
 }

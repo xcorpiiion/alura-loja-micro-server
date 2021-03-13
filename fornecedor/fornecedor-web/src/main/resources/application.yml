@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: fornecedor
+
 server:
   port: 8081
 

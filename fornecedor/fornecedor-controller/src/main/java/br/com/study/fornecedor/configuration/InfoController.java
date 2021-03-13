@@ -1,4 +1,4 @@
-package br.com.study.fornecedor.controller;
+package br.com.study.fornecedor.configuration;
 
 import br.com.study.fornecedor.model.Info;
 import br.com.study.fornecedor.service.InfoService;

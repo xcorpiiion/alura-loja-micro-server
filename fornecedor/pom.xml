@@ -10,6 +10,8 @@
         <module>fornecedor-repository</module>
         <module>fornecedor-service</module>
         <module>fornecedor-web</module>
+        <module>fornecedor-configuration</module>
+        <module>fornecedor-dto</module>
     </modules>
 
     <parent>
@@ -39,6 +41,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <optional>true</optional>
+        </dependency>
+        <dependency>
+            <groupId>org.modelmapper</groupId>
+            <artifactId>modelmapper</artifactId>
+            <version>2.3.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>

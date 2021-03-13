@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-configuration/fornecedor-configuration.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-configuration/fornecedor-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-controller/fornecedor-controller.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-controller/fornecedor-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-dto/fornecedor-dto.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-dto/fornecedor-dto.iml" />
       <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-model/fornecedor-model.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-model/fornecedor-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-repository/fornecedor-repository.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-repository/fornecedor-repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/fornecedor/fornecedor-service/fornecedor-service.iml" filepath="$PROJECT_DIR$/fornecedor/fornecedor-service/fornecedor-service.iml" />
@@ -15,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/loja/loja-configuration/loja-configuration.iml" filepath="$PROJECT_DIR$/loja/loja-configuration/loja-configuration.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-controller/loja-controller.iml" filepath="$PROJECT_DIR$/loja/loja-controller/loja-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-dto/loja-dto.iml" filepath="$PROJECT_DIR$/loja/loja-dto/loja-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loja/loja-model/loja-model.iml" filepath="$PROJECT_DIR$/loja/loja-model/loja-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-service/loja-service.iml" filepath="$PROJECT_DIR$/loja/loja-service/loja-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-web/loja-web.iml" filepath="$PROJECT_DIR$/loja/loja-web/loja-web.iml" />
     </modules>

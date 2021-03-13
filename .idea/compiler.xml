@@ -9,23 +9,28 @@
         <outputRelativeToContentRoot value="true" />
         <module name="loja-web" />
         <module name="fornecedor-repository" />
-        <module name="config-server" />
-        <module name="loja-controller" />
-        <module name="fornecedor-model" />
         <module name="fornecedor-web" />
         <module name="loja-configuration" />
         <module name="loja-service" />
+        <module name="loja-model" />
         <module name="fornecedor-service" />
         <module name="eureka-server" />
         <module name="loja-dto" />
         <module name="fornecedor-controller" />
+        <module name="config-server" />
+        <module name="loja-controller" />
+        <module name="fornecedor-model" />
+        <module name="fornecedor-dto" />
+        <module name="fornecedor-configuration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="fornecedor" target="1.8" />
+      <module name="fornecedor-configuration" target="8" />
       <module name="fornecedor-controller" target="8" />
+      <module name="fornecedor-dto" target="8" />
       <module name="fornecedor-model" target="8" />
       <module name="fornecedor-repository" target="8" />
       <module name="fornecedor-service" target="8" />
@@ -34,6 +39,7 @@
       <module name="loja-configuration" target="8" />
       <module name="loja-controller" target="8" />
       <module name="loja-dto" target="8" />
+      <module name="loja-model" target="8" />
       <module name="loja-service" target="8" />
       <module name="loja-web" target="8" />
     </bytecodeTargetLevel>
@@ -43,7 +49,9 @@
       <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="fornecedor" options="-parameters" />
+      <module name="fornecedor-configuration" options="-parameters" />
       <module name="fornecedor-controller" options="-parameters" />
+      <module name="fornecedor-dto" options="-parameters" />
       <module name="fornecedor-model" options="-parameters" />
       <module name="fornecedor-repository" options="-parameters" />
       <module name="fornecedor-service" options="-parameters" />
@@ -52,6 +60,7 @@
       <module name="loja-configuration" options="-parameters" />
       <module name="loja-controller" options="-parameters" />
       <module name="loja-dto" options="-parameters" />
+      <module name="loja-model" options="-parameters" />
       <module name="loja-service" options="-parameters" />
       <module name="loja-web" options="-parameters" />
     </option>

@@ -5,7 +5,9 @@
     <file url="file://$PROJECT_DIR$/config-server/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fornecedor/fornecedor-configuration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fornecedor/fornecedor-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fornecedor/fornecedor-dto/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fornecedor/fornecedor-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fornecedor/fornecedor-repository/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fornecedor/fornecedor-service/src/main/java" charset="UTF-8" />
@@ -15,6 +17,7 @@
     <file url="file://$PROJECT_DIR$/loja/loja-configuration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loja/loja-model/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/src/main/java" charset="UTF-8" />
