@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="loja-web" />
         <module name="fornecedor-repository" />
+        <module name="config-server" />
         <module name="loja-controller" />
         <module name="fornecedor-model" />
         <module name="fornecedor-web" />
@@ -21,6 +22,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="fornecedor" target="1.8" />
       <module name="fornecedor-controller" target="8" />
@@ -38,6 +40,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="fornecedor" options="-parameters" />
       <module name="fornecedor-controller" options="-parameters" />
