@@ -21,8 +21,10 @@ public class CompraServiceImpl implements CompraService {
     @Override
     public Compra realizaCompra(CompraDTO compraDTO) {
         log.info("Iniciando a realização da compra.");
-        InfoFornecedorDTO info = this.getFornecedorClient().getInfoByEstado(compraDTO.getEndereco().getEstado());
-        log.info("Info fornecedor encontrado");
+        String estado = compraDTO.getEndereco().getEstado();
+        log.info("Buscando informações do fornecedor de {}", estado);
+        InfoFornecedorDTO info = this.getFornecedorClient().getInfoByEstado(estado);
+        log.info("Realizando um Pedido.");
         InfoPedidoDTO infoPedidoDTO = this.getFornecedorClient().realizaPedido(compraDTO.getItens());
         Compra compra = new Compra(infoPedidoDTO.getId(), infoPedidoDTO.getTempoDePreparo(), compraDTO.getEndereco().toString());
         log.info("Compra realizada");
