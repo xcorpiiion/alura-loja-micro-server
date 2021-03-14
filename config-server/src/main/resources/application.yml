@@ -10,4 +10,4 @@ spring:
           password: ${GTIHUB_PASSWORD}
           default-label: main
           uri: https://github.com/xcorpiiion/micro-service-repository
-          search-paths: fornecedor
+          search-paths: fornecedor, loja, transportador

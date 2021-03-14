@@ -18,8 +18,18 @@
       <module fileurl="file://$PROJECT_DIR$/loja/loja-controller/loja-controller.iml" filepath="$PROJECT_DIR$/loja/loja-controller/loja-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-dto/loja-dto.iml" filepath="$PROJECT_DIR$/loja/loja-dto/loja-dto.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-model/loja-model.iml" filepath="$PROJECT_DIR$/loja/loja-model/loja-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loja/loja-repository/loja-repository.iml" filepath="$PROJECT_DIR$/loja/loja-repository/loja-repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-service/loja-service.iml" filepath="$PROJECT_DIR$/loja/loja-service/loja-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-web/loja-web.iml" filepath="$PROJECT_DIR$/loja/loja-web/loja-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportador.iml" filepath="$PROJECT_DIR$/transportador/transportador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportador-controller/transportador-controller.iml" filepath="$PROJECT_DIR$/transportador/transportador-controller/transportador-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportador-dto/transportador-dto.iml" filepath="$PROJECT_DIR$/transportador/transportador-dto/transportador-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-controller/transportadora-controller.iml" filepath="$PROJECT_DIR$/transportador/transportadora-controller/transportadora-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-dto/transportadora-dto.iml" filepath="$PROJECT_DIR$/transportador/transportadora-dto/transportadora-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-model/transportadora-model.iml" filepath="$PROJECT_DIR$/transportador/transportadora-model/transportadora-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-repository/transportadora-repository.iml" filepath="$PROJECT_DIR$/transportador/transportadora-repository/transportadora-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-service/transportadora-service.iml" filepath="$PROJECT_DIR$/transportador/transportadora-service/transportadora-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-web/transportadora-web.iml" filepath="$PROJECT_DIR$/transportador/transportadora-web/transportadora-web.iml" />
     </modules>
   </component>
 </project>

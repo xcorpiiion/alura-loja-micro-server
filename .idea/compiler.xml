@@ -7,12 +7,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="transportadora-service" />
         <module name="loja-web" />
         <module name="fornecedor-repository" />
         <module name="fornecedor-web" />
         <module name="loja-configuration" />
         <module name="loja-service" />
         <module name="loja-model" />
+        <module name="transportadora-model" />
+        <module name="transportadora-web" />
         <module name="fornecedor-service" />
         <module name="eureka-server" />
         <module name="loja-dto" />
@@ -20,8 +23,19 @@
         <module name="config-server" />
         <module name="loja-controller" />
         <module name="fornecedor-model" />
+        <module name="transportadora-repository" />
+        <module name="transportadora-dto" />
+        <module name="transportador-dto" />
+        <module name="loja-repository" />
         <module name="fornecedor-dto" />
         <module name="fornecedor-configuration" />
+        <module name="transportadora-controller" />
+      </profile>
+      <profile name="Annotation profile for tranportador" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="transportador-controller" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -40,8 +54,18 @@
       <module name="loja-controller" target="8" />
       <module name="loja-dto" target="8" />
       <module name="loja-model" target="8" />
+      <module name="loja-repository" target="8" />
       <module name="loja-service" target="8" />
       <module name="loja-web" target="8" />
+      <module name="transportador" target="1.8" />
+      <module name="transportador-controller" target="8" />
+      <module name="transportador-dto" target="8" />
+      <module name="transportadora-controller" target="8" />
+      <module name="transportadora-dto" target="8" />
+      <module name="transportadora-model" target="8" />
+      <module name="transportadora-repository" target="8" />
+      <module name="transportadora-service" target="8" />
+      <module name="transportadora-web" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -61,8 +85,18 @@
       <module name="loja-controller" options="-parameters" />
       <module name="loja-dto" options="-parameters" />
       <module name="loja-model" options="-parameters" />
+      <module name="loja-repository" options="-parameters" />
       <module name="loja-service" options="-parameters" />
       <module name="loja-web" options="-parameters" />
+      <module name="transportador" options="-parameters" />
+      <module name="transportador-controller" options="-parameters" />
+      <module name="transportador-dto" options="-parameters" />
+      <module name="transportadora-controller" options="-parameters" />
+      <module name="transportadora-dto" options="-parameters" />
+      <module name="transportadora-model" options="-parameters" />
+      <module name="transportadora-repository" options="-parameters" />
+      <module name="transportadora-service" options="-parameters" />
+      <module name="transportadora-web" options="-parameters" />
     </option>
   </component>
 </project>

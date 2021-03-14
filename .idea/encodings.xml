@@ -18,9 +18,18 @@
     <file url="file://$PROJECT_DIR$/loja/loja-controller/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-dto/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/loja/loja-repository/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/loja-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/transportadora-controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/transportadora-dto/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/transportadora-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/transportadora-repository/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/transportadora-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transportador/transportadora-web/src/main/java" charset="UTF-8" />
   </component>
 </project>
