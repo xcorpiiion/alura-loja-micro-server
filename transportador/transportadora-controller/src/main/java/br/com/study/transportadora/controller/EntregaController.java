@@ -11,14 +11,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/entrega")
+@RequestMapping("/entregas")
 public class EntregaController {
-	
-	@Autowired
-	private EntregaService entregaService;
 
-	@PostMapping
-	public ResponseEntity<VoucherDTO> reservaEntrega(@RequestBody EntregaDTO pedidoDTO) {
-		return  entregaService.reservaEntrega(pedidoDTO);
-	}
+    @Autowired
+    private EntregaService entregaService;
+
+    @PostMapping
+    public ResponseEntity<VoucherDTO> reservaEntrega(@RequestBody EntregaDTO pedidoDTO) {
+        return entregaService.reservaEntrega(pedidoDTO);
+    }
 }

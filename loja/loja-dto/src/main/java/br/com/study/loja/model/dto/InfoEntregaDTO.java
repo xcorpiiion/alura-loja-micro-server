@@ -1,4 +1,4 @@
-package br.com.study.transportadora.model;
+package br.com.study.loja.model.dto;
 
 import lombok.*;
 
@@ -10,7 +10,7 @@ import java.time.LocalDate;
 @AllArgsConstructor
 @EqualsAndHashCode
 @ToString
-public class EntregaDTO {
+public class InfoEntregaDTO {
 
 	private Long pedidoId;
 	

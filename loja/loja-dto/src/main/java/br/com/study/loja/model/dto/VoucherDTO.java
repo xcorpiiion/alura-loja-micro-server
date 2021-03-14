@@ -1,4 +1,4 @@
-package br.com.study.transportadora.model;
+package br.com.study.loja.model.dto;
 
 import lombok.*;
 
