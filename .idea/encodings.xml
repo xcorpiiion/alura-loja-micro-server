@@ -23,6 +23,10 @@
     <file url="file://$PROJECT_DIR$/loja/loja-web/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/loja/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouath/ouath-configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouath/ouath-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouath/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ouath/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transportador/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transportador/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transportador/transportadora-controller/src/main/java" charset="UTF-8" />
@@ -31,5 +35,7 @@
     <file url="file://$PROJECT_DIR$/transportador/transportadora-repository/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transportador/transportadora-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/transportador/transportadora-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul/src/main/resources" charset="UTF-8" />
   </component>
 </project>

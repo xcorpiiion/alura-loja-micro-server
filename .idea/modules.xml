@@ -21,6 +21,9 @@
       <module fileurl="file://$PROJECT_DIR$/loja/loja-repository/loja-repository.iml" filepath="$PROJECT_DIR$/loja/loja-repository/loja-repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-service/loja-service.iml" filepath="$PROJECT_DIR$/loja/loja-service/loja-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/loja/loja-web/loja-web.iml" filepath="$PROJECT_DIR$/loja/loja-web/loja-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouath/ouath.iml" filepath="$PROJECT_DIR$/ouath/ouath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouath/ouath-configuration/ouath-configuration.iml" filepath="$PROJECT_DIR$/ouath/ouath-configuration/ouath-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ouath/ouath-web/ouath-web.iml" filepath="$PROJECT_DIR$/ouath/ouath-web/ouath-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/transportador/transportador.iml" filepath="$PROJECT_DIR$/transportador/transportador.iml" />
       <module fileurl="file://$PROJECT_DIR$/transportador/transportador-controller/transportador-controller.iml" filepath="$PROJECT_DIR$/transportador/transportador-controller/transportador-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/transportador/transportador-dto/transportador-dto.iml" filepath="$PROJECT_DIR$/transportador/transportador-dto/transportador-dto.iml" />
@@ -30,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-repository/transportadora-repository.iml" filepath="$PROJECT_DIR$/transportador/transportadora-repository/transportadora-repository.iml" />
       <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-service/transportadora-service.iml" filepath="$PROJECT_DIR$/transportador/transportadora-service/transportadora-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/transportador/transportadora-web/transportadora-web.iml" filepath="$PROJECT_DIR$/transportador/transportadora-web/transportadora-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/zuul.iml" filepath="$PROJECT_DIR$/zuul/zuul.iml" />
     </modules>
   </component>
 </project>
